@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Andy, a high school junior, and I love to code!
+
+![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&theme=dark)
+
 <!--
 **thewindsofwinter/thewindsofwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
