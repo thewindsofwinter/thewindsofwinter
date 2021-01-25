@@ -8,7 +8,7 @@ I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics a
 - :snake: Python: a language that I'm getting into more for the purposes of Machine Learning and Articifical Intelligence
 - :man_technologist: JavaScript (and Node and React): getting more into this language for web development, most familiar with Node
 
-![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark)
+![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=40) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark)
 
 <!--
 **thewindsofwinter/thewindsofwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
