@@ -1,6 +1,12 @@
-### Hi there 👋
+# Hi there! 👋
 
-I'm Andy, a high school junior, and I love to code!
+I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics and Science Academy](imsa.edu). I use GitHub to store small projects of mine that I code in my free time, and I'm also looking to get into open source a lot more!
+
+# :computer: Skillset [WIP]
+
+- :coffee: Java: my first language which I've done lots of work in
+- :snake: Python: a language that I'm getting into more for the purposes of Machine Learning and Articifical Intelligence
+- :man_technologist: JavaScript (and Node and React): getting more into this language for web development, most familiar with Node
 
 ![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&theme=dark)
 
