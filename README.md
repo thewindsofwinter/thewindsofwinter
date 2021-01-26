@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics and Science Academy](imsa.edu). I use GitHub to store small projects of mine that I code in my free time, and I'm also looking to get into open source a lot more!
+I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics and Science Academy](https://imsa.edu). I use GitHub to store small projects of mine that I code in my free time, and I'm also looking to get into open source a lot more!
 
 # :computer: Skillset [WIP]
 
