@@ -2,15 +2,24 @@
 
 I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics and Science Academy](https://imsa.edu). I use GitHub to store small projects of mine that I code in my free time, and I'm also looking to get into open source a lot more!
 
-# :computer: Skillset [WIP]
+# :computer: Application Skills [WIP]
 
-Language | Description
---- | --- 
-:coffee: Java | my first language and the one closest to my :heart:. I use it mostly for developing applications.
-🗔 C# | I use it for developing Windows applications, such as my Windows Process Clock
-:snake: Python | I'm getting into more this language for the purposes of ML and AI
-:man_technologist: JavaScript | I utilize this for web development, most familiar with Node.js
-📱 Kotlin | I utilize this for Android Development
+ - Work in Java in general
+ - C# experience developing an app for Windows
+ - Python for AI, ML, and scientific computing (learning)
+ - Kotlin for developing Android apps
+
+# 🕸️ Web Technologies [WIP]
+ - HTML/CSS
+ - JavaScript
+    - React (learning)
+    - Node
+
+# :globe_with_meridians: Actual Languages
+
+ - English (Native Tongue)
+ - Mandarin Chinese (Heritage)
+ - German (Learning, around B2)
 
 ![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true)
 
