@@ -20,8 +20,15 @@ I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics a
  - English (Native Tongue)
  - Mandarin Chinese (Heritage)
  - German (Learning, around B2)
+ 
+# ✨ Projects I'm most proud of [WIP]
 
-![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true)
+ - 🔬 ANIMA, a tool to automate certain aspects of image analysis of neuronal images
+ - 🧪 USNCO-problems, an archive to store problems for the study of chemistry
+
+# 🔢 Helpful statistics
+
+[![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thewindsofwinter/thewindsofwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
