@@ -8,6 +8,7 @@ I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics a
  - C# experience developing an app for Windows
  - Python for AI, ML, and scientific computing (learning)
  - Kotlin for developing Android apps
+ - Some SQL (learning)
 
 # 🕸️ Web Technologies [WIP]
  - HTML/CSS
