@@ -2,6 +2,8 @@
 
 I'm Andy, lifelong learner and high school junior at the [Illinois Mathematics and Science Academy](https://imsa.edu). I use GitHub to store small projects of mine that I code in my free time, and I'm also looking to get into open source a lot more!
 
+Contact: winterwind2022@gmail.com
+
 # :computer: Application Skills [WIP]
 
  - Work in Java in general
