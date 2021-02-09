@@ -31,7 +31,7 @@ Contact: winterwind2022@gmail.com
 
 # 🔢 Helpful statistics
 
-[![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thewindsofwinter/thewindsofwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
