@@ -28,7 +28,7 @@ Contact: winterwind2022@gmail.com
 
  - 🔬 ANIMA, a tool to automate certain aspects of image analysis of neuronal images
  - 🧪 USNCO-problems, an archive to store problems for the study of chemistry
- - ➕ JHMC 2021 Website, a web platform for a middle school math competition that covers the Chicagoland area with 500+ student participants.
+ - ➕ JHMC 2021 Website, a web platform for a middle school math competition that ~~covers the Chicagoland area with 500+ student participants~~ will be nationwide this year!
 
 # 🔢 Helpful statistics
 
