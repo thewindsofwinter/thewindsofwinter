@@ -6,10 +6,11 @@ Contact: winterwind2022@gmail.com
 
 # :computer: Application Skills [WIP]
 
- - Work in Java in general
+ - Large body of work with Java/Swing
  - C# experience developing an app for Windows
- - Python for AI, ML, and scientific computing (learning)
+ - Python for AI, ML, and scientific computing
  - Kotlin for developing Android apps
+ - Some C++
  - Some SQL (learning)
 
 # 🕸️ Web Technologies [WIP]
@@ -17,6 +18,7 @@ Contact: winterwind2022@gmail.com
  - JavaScript
     - React (learning)
     - Node
+    - Some TypeScript
 
 # :globe_with_meridians: Actual Languages
 
@@ -24,11 +26,11 @@ Contact: winterwind2022@gmail.com
  - Mandarin Chinese (Heritage)
  - German (Learning, around B2)
  
-# ✨ Projects I'm most proud of [WIP]
+# ✨ Projects I'm working on [WIP]
 
  - 🔬 ANIMA, a tool to automate certain aspects of image analysis of neuronal images
  - 🧪 USNCO-problems, an archive to store problems for the study of chemistry
- - ➕ JHMC 2021 Website, a web platform for a middle school math competition that ~~covers the Chicagoland area with 500+ student participants~~ will be nationwide this year!
+ - ➕ JHMC 2022 Website, a web platform for a middle school math competition that ~~covers the Chicagoland area with 500+ student participants~~ will be nationwide this year!
 
 # 🔢 Helpful statistics
 
