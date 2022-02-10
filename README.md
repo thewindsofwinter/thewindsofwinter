@@ -7,11 +7,10 @@ Contact: winterwind2022@gmail.com
 # :computer: Application Skills [WIP]
 
  - Large body of work with Java/Swing
- - C# experience developing an app for Windows
+ - C++, C#
  - Python for AI, ML, and scientific computing
  - Kotlin for developing Android apps
- - Some C++
- - Some SQL (learning)
+ - Go (learning)
 
 # 🕸️ Web Technologies [WIP]
  - HTML/CSS
