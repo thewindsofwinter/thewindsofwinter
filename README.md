@@ -33,7 +33,7 @@ Contact: winterwind2022@gmail.com
 
 # 🔢 Helpful statistics
 
-[![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true&exclude_repo=adpro)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![LeetCode user JavaProgrammer21](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJavaProgrammer21&logo=leetcode&logoColor=yellow)](https://leetcode.com/JavaProgrammer21/) -->
 
