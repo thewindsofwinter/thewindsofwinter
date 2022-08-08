@@ -4,20 +4,24 @@ I'm Andy, lifelong learner and high school senior at the [Illinois Mathematics a
 
 Contact: winterwind2022@gmail.com
 
-# :computer: Application Skills [WIP]
+# :computer: App development
 
- - Large body of work with Java/Swing
+ - Java/Swing
  - C++, C#
- - Python for AI, ML, and scientific computing
- - Kotlin for developing Android apps
- - Go (learning)
+ - Python
+ - Golang
+ - Kotlin
+ - Rust (learning)
 
-# 🕸️ Web Technologies [WIP]
+# 🕸️ Web Technologies
  - HTML/CSS
  - JavaScript
-    - React (learning)
+    - React + Next.JS
     - Node
-    - Some TypeScript
+    - Typescript
+ - Websockets (socket.io, Pusher)
+ - WebAssembly (learning)
+ - Firebase and Google Cloud
 
 # :globe_with_meridians: Actual Languages
 
@@ -25,11 +29,12 @@ Contact: winterwind2022@gmail.com
  - Mandarin Chinese (Heritage)
  - German (Learning, around B2)
  
-# ✨ Past Projects [WIP]
+# ✨ Past and Current Projects
 
- - 🔬 ANIMA, a tool to automate certain aspects of image analysis of neuronal images
- - 🧪 USNCO-problems, an archive to store problems for the study of chemistry, along with 🤖 Lavoisier, a chemistry community Discord bot
- - ➕ JHMC 2022 Website, a web platform for an annual math contest serving hundreds of middle school students across the nation
+ - 🔬 [**ANIMA**](https://github.com/thewindsofwinter/ANIMA), a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration
+ - 🧪 [**USNCO Problems**](https://github.com/thewindsofwinter/usnco-problems), a chemistry olympiad problem archive, along with 🤖 [**Lavoisier**](https://github.com/thewindsofwinter/lavoisier-public), a chemistry community Discord bot
+ - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
+ - ➕ [**IMSA JHMC Website**](https://github.com/IMSA-JHMC/JHMC-scripts), a math contest web platform which serves hundreds of middle school students nationwide every year
 
 # 🔢 Helpful Statistics
 
