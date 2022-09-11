@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Andy, a lifelong learner and rising college freshman at Stanford University. I'm especially interested in the code and frameworks that will power the technology of the future, with experience on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) as a software engineering intern and the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/) as a student researcher, among other projects. My GitHub is mostly used to store small projects that I've built in my free time. Feel free to shoot me crazy project ideas: if I can help out, I will <3
+I'm Andy, a lifelong learner and rising college freshman at Stanford University. I'm especially interested in the software frameworks that will power the technology of the future, with experience on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) as a software engineering intern and the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/) as a student researcher, among other projects. My GitHub is mostly used to store small projects that I've built in my free time. Feel free to shoot me crazy project ideas: if I can help out, I will <3
 
 Contact: [LinkedIn](https://www.linkedin.com/in/andyytang/) | andyyt2 at stanford | winterwind2022 at gmail
 
