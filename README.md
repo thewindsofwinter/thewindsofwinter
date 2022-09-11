@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm Andy, lifelong learner and high school senior at the [Illinois Mathematics and Science Academy](https://imsa.edu). I use GitHub to store small projects of mine that I code in my free time, and I'm also looking to get into open source a lot more!
+I'm Andy, a lifelong learner and rising college freshman at Stanford University. I'm especially interested in the code and frameworks that will power the technology of the future, with experience on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) as a software engineering intern and the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/) as a student researcher, among other projects. My GitHub is mostly used to store small projects that I've built in my free time. Feel free to shoot me crazy project ideas: if I can help out, I will <3
 
-Contact: winterwind2022@gmail.com
+Contact: [LinkedIn](https://www.linkedin.com/in/andyytang/) | andyyt2 at stanford | winterwind2022 at gmail
 
 # :computer: App development
 
