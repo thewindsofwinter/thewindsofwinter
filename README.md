@@ -30,7 +30,11 @@ Contact: [LinkedIn](https://www.linkedin.com/in/andyytang/) | andyyt2 at stanfor
  - German (Learning, around B2)
  
 # ✨ Past and Current Projects
+## In Progress
+ - ⚖️ Azimuth (Weighing different virtuous actions)
+ - 🥠 AI Fortune Cookie Generator
 
+## Completed
  - 🔬 [**ANIMA**](https://github.com/thewindsofwinter/ANIMA), a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration
  - 🧪 [**USNCO Problems**](https://github.com/thewindsofwinter/usnco-problems), a chemistry olympiad problem archive, along with 🤖 [**Lavoisier**](https://github.com/thewindsofwinter/lavoisier-public), a chemistry community Discord bot
  - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
