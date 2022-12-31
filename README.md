@@ -31,7 +31,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/andyytang/) | andyyt2 at stanfor
  
 # ✨ Past and Current Projects
 ## In Progress
- - ⚖️ Azimuth (Weighing different virtuous actions)
+ - ⚖️ Azimuth (A career quiz based on outcome-weighing)
  - 🥠 AI Fortune Cookie Generator
 
 ## Completed
