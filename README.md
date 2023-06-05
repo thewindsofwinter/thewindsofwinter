@@ -2,8 +2,7 @@ Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a
 
 Got something crazy to build? Loop me in <3
 [Schedule a Hack Date](https://forms.gle/PrYqzozR5jkLn6Wq5)
- 
-# ✨ Projects
+
 ## In Progress
  - :zap: [**Excaliblaze**](https://excaliblaze.vercel.app/), a laser-cutting and engraving application supercharged with generative artificial intelligence.
 
@@ -13,9 +12,7 @@ Got something crazy to build? Loop me in <3
  - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
  - ➕ [**IMSA JHMC Website**](https://github.com/IMSA-JHMC/JHMC-scripts), a math contest web platform which serves hundreds of middle school students nationwide every year
 
-# 🔢 Stats
-
-[![Andy's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewindsofwinter&theme=github_dark)
+![Andy's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewindsofwinter&theme=github_dark)
 
 <!-- [![LeetCode user JavaProgrammer21](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJavaProgrammer21&logo=leetcode&logoColor=yellow)](https://leetcode.com/JavaProgrammer21/) -->
 
