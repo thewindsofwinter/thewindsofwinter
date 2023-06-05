@@ -1,13 +1,11 @@
-# Hi there! 👋
+Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a freshman at Stanford University, incoming software engineering intern at [Replit](https://replit.com/~), president of [Stanford Student Robotics](https://stanfordstudentrobotics.org/), and officer on [Stanford Moonshot](https://www.stanfordmoonshot.club/). Previously, I was a software engineering intern on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) and a student researcher at the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/) 
 
-I'm Andy, a lifelong learner and rising college freshman at Stanford University. I'm especially interested in the software frameworks that will power the technology of the future, with experience on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) as a software engineering intern and the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/) as a student researcher, among other projects. My GitHub is mostly used to store small projects that I've built in my free time. Feel free to shoot me crazy project ideas: if I can help out, I will <3
-
-Contact: [LinkedIn](https://www.linkedin.com/in/andyytang/) | andyyt2 at stanford | winterwind2022 at gmail
+Got something crazy to build? Loop me in <3
+[Schedule a Hack Date](https://forms.gle/PrYqzozR5jkLn6Wq5)
  
-# ✨ Past and Current Projects
+# ✨ Projects
 ## In Progress
- - ⚖️ Azimuth (A career quiz based on outcome-weighing)
- - 🥠 AI Fortune Cookie Generator
+ - :zap: [**Excaliblaze**](https://excaliblaze.vercel.app/), a laser-cutting and engraving application supercharged with generative artificial intelligence.
 
 ## Completed
  - 🔬 [**ANIMA**](https://github.com/thewindsofwinter/ANIMA), a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration
@@ -15,7 +13,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/andyytang/) | andyyt2 at stanfor
  - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
  - ➕ [**IMSA JHMC Website**](https://github.com/IMSA-JHMC/JHMC-scripts), a math contest web platform which serves hundreds of middle school students nationwide every year
 
-# 🔢 Helpful Statistics
+# 🔢 Stats
 
 [![Andy's github stats](https://github-readme-stats.vercel.app/api?username=thewindsofwinter&show_icons=true&count_private=true&theme=dark&line_height=35) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thewindsofwinter&theme=dark&hide_title=true&exclude_repo=adpro)](https://github.com/anuraghazra/github-readme-stats)
 
