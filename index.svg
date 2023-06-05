@@ -1,6 +1,6 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 600" width="600" height="600" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-        <div>
+        <div xmlns="http://www.w3.org/1999/xhtml">
             <p>Hi there! I&#39;m Andy, a lifelong learner with a penchant for crazy projects. I&#39;m a freshman at Stanford University, incoming software engineering intern at <a href="https://replit.com/~">Replit</a>, president of <a href="https://stanfordstudentrobotics.org/">Stanford Student Robotics</a>, and officer on <a href="https://www.stanfordmoonshot.club/">Stanford Moonshot</a>. Previously, I was a software engineering intern on <a href="https://www.cloudflare.com/magic-transit/">Cloudflare Magic Transit</a> and a student researcher at the <a href="https://app.mcb.illinois.edu/chunghj/lab-members/">UIUC Chung Lab</a>.</p>
 
             <p>Got something crazy to build? Loop me in &lt;3 <br />
@@ -21,8 +21,6 @@
                 <li>🧮 <a href="https://github.com/thewindsofwinter/24-together"><strong>24 Together</strong></a>, a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere</li>
                 <li>➕ <a href="https://github.com/IMSA-JHMC/JHMC-scripts"><strong>IMSA JHMC Website</strong></a>, a math contest web platform which serves hundreds of middle school students nationwide every year</li>
             </ul>
-
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewindsofwinter&theme=github_dark" />
         </div>
     </foreignObject>
 </svg>
