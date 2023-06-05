@@ -1,0 +1,46 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div>
+            <p>Hi there! I&#39;m Andy, a lifelong learner with a penchant for crazy projects. I&#39;m a freshman at Stanford University, incoming software engineering intern at <a href="https://replit.com/~">Replit</a>, president of <a href="https://stanfordstudentrobotics.org/">Stanford Student Robotics</a>, and officer on <a href="https://www.stanfordmoonshot.club/">Stanford Moonshot</a>. Previously, I was a software engineering intern on <a href="https://www.cloudflare.com/magic-transit/">Cloudflare Magic Transit</a> and a student researcher at the <a href="https://app.mcb.illinois.edu/chunghj/lab-members/">UIUC Chung Lab</a>.</p>
+
+            <p>Got something crazy to build? Loop me in &lt;3 <br />
+                <a href="https://forms.gle/PrYqzozR5jkLn6Wq5">Schedule a Hack Date</a>
+            </p>
+
+            <h2 id="in-progress">In Progress</h2>
+
+            <ul>
+                <li>:zap: <a href="https://excaliblaze.vercel.app/"><strong>Excaliblaze</strong></a>, a laser-cutting and engraving application supercharged with generative artificial intelligence.</li>
+            </ul>
+
+            <h2 id="completed">Completed</h2>
+
+            <ul>
+                <li>🔬 <a href="https://github.com/thewindsofwinter/ANIMA"><strong>ANIMA</strong></a>, a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration</li>
+                <li>🧪 <a href="https://github.com/thewindsofwinter/usnco-problems"><strong>USNCO Problems</strong></a>, a chemistry olympiad problem archive, along with 🤖 <a href="https://github.com/thewindsofwinter/lavoisier-public"><strong>Lavoisier</strong></a>, a chemistry community Discord bot</li>
+                <li>🧮 <a href="https://github.com/thewindsofwinter/24-together"><strong>24 Together</strong></a>, a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere</li>
+                <li>➕ <a href="https://github.com/IMSA-JHMC/JHMC-scripts"><strong>IMSA JHMC Website</strong></a>, a math contest web platform which serves hundreds of middle school students nationwide every year</li>
+            </ul>
+
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewindsofwinter&theme=github_dark" />
+        </div>
+    </foreignObject>
+</svg>
+
+
+<!-- [![LeetCode user JavaProgrammer21](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJavaProgrammer21&logo=leetcode&logoColor=yellow)](https://leetcode.com/JavaProgrammer21/) -->
+
+<!--
+**thewindsofwinter/thewindsofwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
