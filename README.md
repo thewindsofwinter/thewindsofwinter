@@ -1,7 +1,10 @@
 Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a freshman at Stanford University, incoming software engineering intern at [Replit](https://replit.com/~), president of [Stanford Student Robotics](https://stanfordstudentrobotics.org/), and officer on [Stanford Moonshot](https://www.stanfordmoonshot.club/). Previously, I was a software engineering intern on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) and a student researcher at the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/).
 
-Got something crazy to build? Loop me in <3
-[Schedule a Hack Date](https://forms.gle/PrYqzozR5jkLn6Wq5)
+
+<p align="center">
+ Got something crazy to build? Loop me in <3
+</p>
+<h3 align="center">--> <a href="https://forms.gle/PrYqzozR5jkLn6Wq5">Schedule a Hack Date</a> <--</h3>
 
 ## In Progress
  - :zap: [**Excaliblaze**](https://excaliblaze.vercel.app/), a laser-cutting and engraving application supercharged with generative artificial intelligence.
