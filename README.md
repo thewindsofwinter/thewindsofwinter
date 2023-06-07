@@ -8,6 +8,7 @@ Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a
 
 ## In Progress
  - :zap: [**Excaliblaze**](https://excaliblaze.vercel.app/), a laser-cutting and engraving application supercharged with generative artificial intelligence.
+ - :robot: [**Titran**](https://github.com/thewindsofwinter/titran), an esolang mimicking my high school announcement system.
 
 ## Completed
  - 🔬 [**ANIMA**](https://github.com/thewindsofwinter/ANIMA), a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration
