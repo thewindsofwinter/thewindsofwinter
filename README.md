@@ -1,4 +1,4 @@
-Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a freshman at Stanford University, incoming software engineering intern at [Replit](https://replit.com/~), president of [Stanford Student Robotics](https://stanfordstudentrobotics.org/), and officer on [Stanford Moonshot](https://www.stanfordmoonshot.club/). Previously, I was a software engineering intern on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) and a student researcher at the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/).
+Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a freshman at Stanford University, software engineering intern at [Replit](https://replit.com/~), president of [Stanford Student Robotics](https://stanfordstudentrobotics.org/), and officer on [Stanford Moonshot](https://www.stanfordmoonshot.club/). Previously, I was a software engineering intern on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) and a student researcher at the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/).
 
 
 <p align="center">
