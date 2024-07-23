@@ -1,22 +1,9 @@
-Hi there! I'm Andy, a lifelong learner with a penchant for crazy projects. I'm a freshman at Stanford University, software engineering intern at [Replit](https://replit.com/~), president of [Stanford Student Robotics](https://stanfordstudentrobotics.org/), and officer on [Stanford Moonshot](https://www.stanfordmoonshot.club/). Previously, I was a software engineering intern on [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/) and a student researcher at the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/).
+Hiya - I'm Andy, a sophomore at Stanford. This summer, I'm working on aligning diffusion-based [protein-ligand docking](https://en.wikipedia.org/wiki/Macromolecular_docking) with physics using [molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics) simulations at [Genesis Therapeutics](https://genesistherapeutics.ai/). Previously, I've also served as president of [Stanford Student Robotics](https://stanfordstudentrobotics.org/), organized [TreeHacks](https://treehacks.com/), interned at [Quilter](https://www.quilter.ai/), [Replit](https://replit.com/~) and [Cloudflare Magic Transit](https://www.cloudflare.com/magic-transit/), and published research on particle physics (at [Fermilab](https://www.fnal.gov/)) and epilepsy (at the [UIUC Chung Lab](https://app.mcb.illinois.edu/chunghj/lab-members/)).
 
+My primary interest is how to align machine learning methods with complex ``physical" truth: think things like math, coding, circuit design, drug discovery, and robot learning. I believe the architectural and data-gathering techniques developed in these disciplines will pave the way for reliable machine learning and general, safe artificial intelligence. I'm especially interested in uncertainty quantification, autonomous data collection, generative models, and fine-tuning on simulation data, topics which I'm exploring as an undergraduate robotics researcher at [Stanford AI Lab (IRIS)](https://irislab.stanford.edu/) under the guidance of [Annie Chen](https://anniesch.github.io/).
 
-<p align="center">
- Got something crazy to build? Loop me in <3
-</p>
-<h3 align="center">--> <a href="https://forms.gle/PrYqzozR5jkLn6Wq5">Schedule a Hack Date</a> <--</h3>
+Want to build / chat? Shoot me an email [andyyt2] at [stanford]
 
-## In Progress
- - :zap: [**Excaliblaze**](https://excaliblaze.vercel.app/), a laser-cutting and engraving application supercharged with generative artificial intelligence.
- - :robot: [**Titran**](https://github.com/thewindsofwinter/titran), an esolang mimicking my high school announcement system.
-
-## Completed
- - 🔬 [**ANIMA**](https://github.com/thewindsofwinter/ANIMA), a tool to automate image analysis of mouse brain slices to quantify severity of post-seizure neurodegeneration
- - 🧪 [**USNCO Problems**](https://github.com/thewindsofwinter/usnco-problems), a chemistry olympiad problem archive, along with 🤖 [**Lavoisier**](https://github.com/thewindsofwinter/lavoisier-public), a chemistry community Discord bot
- - 🧮 [**24 Together**](https://github.com/thewindsofwinter/24-together), a fun, engaging math/card game packaged in a multiplayer web app so you can play with friends anywhere
- - ➕ [**IMSA JHMC Website**](https://github.com/IMSA-JHMC/JHMC-scripts), a math contest web platform which serves hundreds of middle school students nationwide every year
-
-## Stats Card
 <div>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thewindsofwinter&theme=github_dark" width="100%">
 </div>
